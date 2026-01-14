@@ -1,4 +1,4 @@
-package objectorientedprogramming.fundamental.level2;
+package oops.fundamental.level2;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package objectorientedprogramming.statics.level1;
+package oops.statics.level1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package objectorientedprogramming.constructors.level1;
+package oops.constructors.level1;
 
 import java.util.Scanner;
 
