@@ -171,7 +171,7 @@ class TaskScheduler {
     }
 }
 
-
+// Main class
 public class TaskSchedulerSystem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
