@@ -36,8 +36,9 @@
 * 31-Jan-2026 (Saturday): Gave my review for Data Structures and Algorithms (DSA).
 * 02-Feb-2026 (Monday): Completed programs on Java I/O Streams and started learning Exception Handling.
 * 03-Feb-2026 (Tuesday): Completed week 4 Exceptions coding problems.
-* 04-Feb-2026 (Tuesday): Completed week 4 Regex coding problems.
-* 05-Feb-2026 (Tuesday): Completed week 4 Java 8 feature coding problems.
+* 04-Feb-2026 (Wednesday): Completed week 4 Regex coding problems.
+* 05-Feb-2026 (Thursday): Completed week 4 Java 8 feature coding problems.
+
 
 
 
