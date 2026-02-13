@@ -1,4 +1,4 @@
-package javacollectionsstream.java8features.day7FunctionalInterface;
+package collectionstreams.java8features.functionalinterface;
 
 import java.util.function.Function;
 
