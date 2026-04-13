@@ -43,7 +43,7 @@
 * 09-Feb-2026 (Monday): Completed week 5 day 2 practice problems.
 * 10-Feb-2026 (Tuesday): Attended weekly review on Java generics and collections.
 * 11-Feb-2026 (Wednesday): Completed OceanFleatApp.
-* 12-Feb-2026 (Thursday): Took sick-leave.
+* 12-Feb-2026 (Thursday): Completed Lexical Twist Puzzle Application.
 * 13-Feb-2026 (Friday): Completed week 5 practice problems and uploaded to GitHub.
 * 14-Feb-2026 (Saturday): Attended power-skills training, revised basic grammar and professional email writing.
 * 16-Feb-2026 (Monday): Completed problem on trees and graphs and uploaded coding files into GitHub.
@@ -51,7 +51,7 @@
 * 18-Feb-2026 (Wednesday): Worked on hackerrank problems.
 * 19-Feb-2026 (Thursday): Worked on hackerrank problems.
 * 20-Feb-2026 (Friday): Completed problems on annotation and design pattern and uploaded the code to GitHub.
-* 21-Feb-2026 (Saturday): Attended power skills session, gave a 3 minute speach on curiosity.
+* 21-Feb-2026 (Saturday): Attended power skills session.
 * 23-Feb-2026 (Monday): Completed code for Quantity Measurement App.
 * 24-Feb-2026 (Tuesday): Installed and set up of MySQL server.
 * 25-Feb-2026 (Wednesday): Added work to checklist and completed week 6 day 2 and day 3 SQL queries.
@@ -63,13 +63,13 @@
 * 04-Mar-2026 (Wednesday): Completed UC7-UC10 and updated it to a new github repo named "Quantity-Measurement-App".
 * 05-Mar-2026 (Thursday): Completed UC111-UC12 and updated it to a new github repo named "Quantity-Measurement-App".
 * 06-Mar-2026 (Friday): Completed UC13-UC14 and updated it to a new github repo named "Quantity-Measurement-App".
-* 07-Mar-2026 (Saturday): Delivered a professional presentation on "adaptive learning" during a comprehensive power-skills training program.
+* 07-Mar-2026 (Saturday): Attended SoftSkills sessions
 * 09-Mar-2026 (Monday): Started learning springboot and tomcat servelets.
 * 10-Mar-2026 (Tuesday): Completed assignment on Tomcat and pushed the code to a new repo in GitHub named "TomcatServlet".
 * 11-Mar-2026 (Wednesday): Completed assignment on Spring and pushed the code to a new repo in GitHub named "SpringBootHelloApp".
 * 12-Mar-2026 (Thursday): Completed assignment on Spring REST API and pushed the code to a new repo in GitHub named "SpringBootHelloApp".
 * 13-Mar-2026 (Friday): Completed assignment on Spring framework and pushed the code to a new repo in GitHub named "SpringBootHelloApp".
-* 14-Mar-2026 (Saturday): Attended SoftSkills sessions
+* 14-Mar-2026 (Saturday): Attended SoftSkills sessions.
 * 16-Mar-2026 (Monday): Attended review for springboot applications.
 * 17-Mar-2026 (Tuesday): Prepared for M1 mock exam.
 * 18-Mar-2026 (Wednesday): Attended M1 mock exam and noted the reviews provided by mentors for improvement.
@@ -81,6 +81,19 @@
 * 25-Mar-2026 (Wednesday): Started working on AddressBookApp and pushed UC1-UC3 code to a new repo in GitHub named "AddressBook-SpringBoot".
 * 26-Mar-2026 (Thursday): Started working on AddressBookApp and pushed UC4-UC8 code to a new repo in GitHub named "AddressBook-SpringBoot".
 * 27-Mar-2026 (Friday): Started working on AddressBookApp and pushed UC9-UC12 code to a new repo in GitHub named "AddressBook-SpringBoot".
+* 28-Mar-2026 (Saturday): Attended SoftSkills sessions.
+* 30-Mar-2026 (Monday): Completed UC15 of Quantity measurement app and uploaded the code to GitHub repo named "Quantity-Measurement-App".
+* 01-Apr-2026 (Wednesday): Completed hosptial management app and uploaded the code to GitHub repo named "Hospital-Management-App".
+* 02-Apr-2026 (Thursday): Started working on FunDoNotes application covering cocepts like RabbitMQ, Redies, JWT etc.
+* 03-Apr-2026 (Friday): Start dicussion about Spring Boot.
+* 04-Apr-2026 (Saturday): Attended SoftSkills sessions.
+* 06-Apr-2026 (Monday): Worked on UC16 of quantity measurement app and added in the code to the repository called "Quantity-measurement-app" in github.
+* 07-Apr-2026 (Tuesday): Worked on UC17 of quantity measurement app.
+* 08-Apr-2026 (Wednesday): Completed UC17 of Quantity measurement app and uploaded the code to GitHub repo named "Quantity-Measurement-App".
+* 09-Apr-2026 (Thursday): Started learning concepts of JMS and redies.
+* 10-Apr-2026 (Friday): Gave a presentation on "Spring Validation" with the project team answered questions asked by the mentors.
+* 11-Apr-2026 (Saturday): Attended power-skills training, revised basic grammar and professional email writing.
+* 13-Apr-2026 (Monday): Started learning concepts of RabbitMQ and spring batch with excel and microservices.
 
 
 
